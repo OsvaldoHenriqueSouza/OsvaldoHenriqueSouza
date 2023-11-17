@@ -4,7 +4,7 @@
 
 - 🧠 Formado pela escola de programação web Trybe - FullStack
 - 🧠 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe - IFS
-- 🏦 Atualmente trabalho como Desenvolvedor FullStack, como foco no Backend
+- 🏦 Atualmente trabalho como Desenvolvedor FullStack, como ênfase no Backend
 
 ##
 
@@ -28,6 +28,18 @@
   <a href="https://www.linkedin.com/in/osvaldo-henrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
   <a href ="osvaldosouza_99@hotmail.com"><img src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" target="_blank"></a>
 </div>
+
+#### Experiência profissional:
+A seguir você saberá um pouco sobre minha experiência mais recente e atual:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>]
+
+**Jamal software** \
+[**Jamal software**] • Desenvolvedor FullStack • Full-time \
+Competências: `Desenvolvimento de novas funcionalidades e manutenção`, 
+<br/> `.NET`, `TypeScript`, `MongoDB`, `MySQL`
+
+
 
 <div align="center">
   <a href="https://github.com/OsvaldoHenriqueSouza">
