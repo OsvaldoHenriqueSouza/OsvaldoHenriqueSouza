@@ -1,3 +1,26 @@
+## Seja bem-vindos, Devs, ao meu perfil GitHub!! 👋
+
+
+- 🧠 Formado pela escola de programação web Trybe - FullStack
+- 🧠 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe - IFS
+- 🏦 Atualmente trabalho como Desenvolvedor FullStack, como foco no Backend
+
+##
+
+#### Sei desenvolver com:
+<div>
+  <a href="https://www.typescriptlang.org/pt/">
+    <img src="https://skillicons.dev/icons?i=ts"/>
+  </a>
+  <a href="https://pt-br.react.dev">
+    <img src="https://skillicons.dev/icons?i=react"/>
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=nodejs"/>
+  </a>
+</div>
+
+
 <div align="center">
   <a href="https://github.com/OsvaldoHenriqueSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OsvaldoHenriqueSouza&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
