@@ -1,5 +1,5 @@
 ## Seja bem-vindos, Devs, ao meu perfil GitHub!! 👋
-### O meu nome é Osvaldo Henrique, mas pode me chamar de Osvaldo ou de Henrique, vocês que sabem.
+### O meu nome é Osvaldo Henrique, mas podem me chamar de Osvaldo ou de Henrique, vocês que sabem.
 
 
 - 🧠 Formado pela escola de programação web Trybe - FullStack
