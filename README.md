@@ -26,7 +26,7 @@
 #### Entre em contato comigo:
 <div>
   <a href="https://www.linkedin.com/in/osvaldo-henrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
-  <a href ="osvaldosouza_99@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" width="300px"></a>
+  <a href ="osvaldosouza_99@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
 ##
