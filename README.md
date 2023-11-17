@@ -41,7 +41,7 @@ A seguir você saberá um pouco sobre minha experiência mais recente e atual:
 Competências: `Desenvolvimento de novas funcionalidades e manutenção`, 
 <br/> `.NET`, `TypeScript`, `MongoDB`, `MySQL`
 
-
+##
 
 <div align="center">
   <a href="https://github.com/OsvaldoHenriqueSouza">
