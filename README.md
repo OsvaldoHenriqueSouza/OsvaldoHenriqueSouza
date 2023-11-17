@@ -13,6 +13,9 @@
   <a href="https://www.typescriptlang.org/pt/">
     <img src="https://skillicons.dev/icons?i=ts"/>
   </a>
+    <a href="https://www.typescriptlang.org/pt/">
+    <img src="[https://skillicons.dev/icons?i=ts](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)"/>
+  </a>
   <a href="https://pt-br.react.dev">
     <img src="https://skillicons.dev/icons?i=react"/>
   </a>
