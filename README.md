@@ -32,7 +32,7 @@
 #### Experiência profissional:
 A seguir você saberá um pouco sobre minha experiência mais recente e atual:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src=""/>]
+[<img align="left" height="94px" width="94px" alt="" src=""/>]
 
 **Jamal software** \
 [**Jamal software**] • Desenvolvedor FullStack • Full-time \
