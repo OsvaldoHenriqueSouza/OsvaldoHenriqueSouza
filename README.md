@@ -29,6 +29,8 @@
 <!--   <a href ="osvaldosouza_99@hotmail.com"><img src="[https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=pt_BR)" target="_blank"></a> -->
 </div>
 
+##
+
 #### Experiência profissional:
 A seguir você saberá um pouco sobre minha experiência mais recente e atual:
 
