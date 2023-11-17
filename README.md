@@ -35,7 +35,7 @@ A seguir você saberá um pouco sobre minha experiência mais recente e atual:
 [<img align="left" height="94px" width="94px" alt="" src=""/>]
 
 **Jamal software** \
-[**Jamal software**] • Desenvolvedor FullStack • Full-time \
+• Desenvolvedor FullStack • Full-time \
 Competências: `Desenvolvimento de novas funcionalidades e manutenção`, 
 <br/> `.NET`, `TypeScript`, `MongoDB`, `MySQL`
 
